@@ -6,3 +6,4 @@ SOM is from **SO**ftware **M**arbles but it also means [catfish](http://en.wikip
 
 ### SOM includes
 [SOM-Cocoa](https://github.com/SoftwareMarbles/SOM-Cocoa) - utilities for Cocoa
+[SOM-JavaScript](https://github.com/SoftwareMarbles/SOM-JavaScript) - utilities for JavaScript

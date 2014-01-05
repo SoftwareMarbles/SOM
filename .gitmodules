@@ -1,3 +1,6 @@
 [submodule "SOM-Cocoa"]
 	path = SOM-Cocoa
 	url = git@github.com:SoftwareMarbles/SOM-Cocoa.git
+[submodule "SOM-JavaScript"]
+	path = SOM-JavaScript
+	url = https://github.com/SoftwareMarbles/SOM-JavaScript.git
